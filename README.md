@@ -42,6 +42,7 @@ Army
 Police
 
 Online anonymity
+
 | Pros                   | Cons                           |
 |:----------------------:|:------------------------------:|
 | Respect people privacy | Allows criminals to coordinate |
@@ -54,6 +55,7 @@ Banking anonymity
 | Respect people privacy | Allows inequalities            |
 |                        | Allows peoples to have more power than the state |
 |                        | Makes police work harder       |
+
 Insurances
 
 # Struggles
