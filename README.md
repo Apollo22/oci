@@ -2,6 +2,8 @@
 
 The Open Collaboration Initiative aims to build a new society. For that, it provides a framework and tools to contribute. This new society aims to provide freedom, although I still struggle on a lot of subject.
 
+This repository presents the description of tools I believe would be useful to a society and describes the society I wish to live in.
+
 # How does it look
 
 ## Economy
