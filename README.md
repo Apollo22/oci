@@ -12,6 +12,9 @@ Medias (Cost to viewers + Funding)
 
 ## Democracy
 
+Choice of leaders (Necessary for emergencies)
+Economic Democraties (Crownfunding of projects | Money dedicated by subjects)
+
 ## Education
 
 Access to information
@@ -33,6 +36,11 @@ Sports
 
 Army
 Police
+
+# Struggles
+
+Banking (anonymous vs known to government(useful for police and to limit individuals power))
+CCTV (useful for security)
 
 # How to get there
 
