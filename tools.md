@@ -2,7 +2,7 @@
 
 Video + Audio + Text + Image + Documents
 
-History and read only and destroy
+History and read only and destroy once read
 
 Mark message as received / seen or not
 
