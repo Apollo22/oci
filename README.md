@@ -1,8 +1,10 @@
 # Open Collaboration Initiative
 
-The Open Collaboration Initiative aims to build a new society. For that, it provides a framework and tools to contribute. This new society aims to provide freedom, although I still struggle on a lot of subject.
+The Open Collaboration Initiative aims to build better societies.
 
-This repository presents the description of tools I believe would be useful to a society and describes the society I wish to live in.
+This repository is currently divided in two folders. The first folder, named "societies", describes what we believe could be better societies. The second, named "path", describes the ways we think we could get there.
+
+PS: As of today, I am alone working on this project. Do not hesitate to contact me to discuss about this subject
 
 # How does it look
 
@@ -36,6 +38,8 @@ Sports
 
 ## Other
 
+New language (close to lojban)
+
 ### Security
 
 Army
@@ -67,3 +71,4 @@ CCTV (useful for security)
 
 Hackerspaces + Local Communities
 IOPS
+Plateforms
