@@ -3,4 +3,14 @@
 
 Hackerspaces + Local Communities
 IOPS
-Plateforms
+
+## Plateforms
+
+### Education Plateform
+
+https://studyanything.miraheze.org/wiki/Main_Page
+
+### Specification Website
+
+- Specific subject : 
+** - User Experience on desktop computers : https://github.com/Apollo22/open_desktop_experience
